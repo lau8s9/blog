@@ -1,1 +1,4 @@
-my new file contents
+{
+"devUrl":["http://api.rtvivs.cn"],
+"prodUrl":["http://api.rtvivs.cn","http://api.yyyukq.cn"]
+}
