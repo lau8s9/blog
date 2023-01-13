@@ -1,4 +1,2 @@
-https://api.phixtlg.cn
-https://api.qrwwfhh.cn
-https://api.wcufirc.cn
-https://api.razsnkf.cn
+https://api.naotyya.cn
+https://api.tahukgx.cn
