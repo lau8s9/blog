@@ -1,2 +1,2 @@
-https://api.tahukgx.cn
-https://api.naotyya.cn
+https://api.ssdjggs.cn
+https://api.pltqysl.cn
