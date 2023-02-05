@@ -1,2 +1,1 @@
-https://api.jzsntgp.cn
-https://api.ttrruwl.cn
+https://api.jwzsz.com
